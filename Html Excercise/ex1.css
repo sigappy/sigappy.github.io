@@ -1,0 +1,8 @@
+* {
+
+  border: 1px dotted blue; 
+}
+  div{
+      max-width: 400 px;
+      margin: auto;
+    }
